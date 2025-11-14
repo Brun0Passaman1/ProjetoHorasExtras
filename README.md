@@ -69,6 +69,6 @@ ProjetoHorasExtras/
 
  README.md → Documentação do projeto
  
- LICENCSE → Licença de uso
+ LICENSE → Licença de uso
  
  SistemaDeControle.exe → Executável da aplicação
