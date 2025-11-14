@@ -48,17 +48,27 @@ O objetivo deste projeto é substituir o processo manual de controle de horas ex
     Estrutura do Projeto
 
 ProjetoHorasExtras/
-│
-├─  docs/ → Arquivos da entrega
-│ ├─  especificacao_do_projeto.pdf
-│ └─  fluxograma.png
-│
-├─  src/ → Código-fonte
-│ ├─  main.c (menu e fluxo principal)
-│ ├─  funcoes.c (implementação das funcionalidades)
-│ └─  funcoes.h (estruturas e protótipos)
-│
-│
-├─  README.md → Documentação do projeto
-│
-└─  SistemaDeControle.exe → Executável da aplicação
+
+ docs/ → Arquivos da entrega
+ 
+  `Projeto de controle de horas extras.pdf`
+  
+  `Fluxograma.png`
+
+
+ src/ → Código-fonte
+ 
+  `main.c` (menu e fluxo principal)
+  
+  `funcoes.c` (implementação das funcionalidades)
+  
+  `funcoes.h` (estruturas e protótipos)
+
+
+ㅤ
+
+ README.md → Documentação do projeto
+ 
+ LICENCSE → Licença de uso
+ 
+ SistemaDeControle.exe → Executável da aplicação
